@@ -1,0 +1,289 @@
+{
+  "lessons": {
+    "1768748410949": {
+      "id": "1768748410949",
+      "title": "富士山下",
+      "videoUrl": "https://youtu.be/8MLaEChngb0?si=NeU0BvG0J07z0_fE",
+      "language": "Mandarin",
+      "lyrics": [
+        {
+          "id": "voz397e0n",
+          "startTime": 0,
+          "endTime": 5,
+          "chinese": "拦路雨偏似雪花",
+          "pinyin": "laan4 lou6 jyu5 pin1 ci5 syut3 faa1",
+          "english": "",
+          "vocabs": [
+            {
+              "char": "雨",
+              "pinyin": " jyu5",
+              "explanation": "rain"
+            }
+          ],
+          "isHomework": true
+        },
+        {
+          "id": "f7akzzv6d",
+          "startTime": 5,
+          "endTime": 10,
+          "chinese": "饮泣的你冻吗",
+          "pinyin": "jam2 jap1 dik1 nei5 dung3 maa1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "duv36uw5v",
+          "startTime": 10,
+          "endTime": 15,
+          "chinese": "这风褛我给你磨到有襟花",
+          "pinyin": "ze5 fung1 lau1 ngo5 kap1 nei5 mo4 dou3 jau5 kam1 faa1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "3y2kon0ms",
+          "startTime": 15,
+          "endTime": 20,
+          "chinese": "连调了职也不怕",
+          "pinyin": "lin4 tiu4 liu5 zik1 jaa5 bat1 paa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "qkm6nxvtg",
+          "startTime": 20,
+          "endTime": 25,
+          "chinese": "怎么始终牵挂",
+          "pinyin": "zam2 mo1 ci2 zung1 cin1 gwaa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "2s9tiexou",
+          "startTime": 25,
+          "endTime": 30,
+          "chinese": "苦心选中今天想车你回家",
+          "pinyin": "fu2 sam1 syun3 zung6 gam1 tin1 soeng2 ce1 nei5 wui4 gaa1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "ti8jlnqk1",
+          "startTime": 30,
+          "endTime": 35,
+          "chinese": "原谅我不再送花",
+          "pinyin": "jyun4 loeng6 ngo5 bat1 zoi3 sung3 faa1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "y9ycqt8sr",
+          "startTime": 35,
+          "endTime": 40,
+          "chinese": "伤口应要结疤",
+          "pinyin": "soeng1 hau2 jing1 jiu3 git3 baa1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "gd8dkcpum",
+          "startTime": 40,
+          "endTime": 45,
+          "chinese": "花瓣铺满心里坟场才害怕",
+          "pinyin": "faa1 baan2 pou1 mun5 sam1 leoi5 fan4 coeng4 coi4 hoi6 paa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "4r6kyah3z",
+          "startTime": 45,
+          "endTime": 50,
+          "chinese": "如若你非我不嫁",
+          "pinyin": "jyu4 joek6 nei5 fei1 ngo5 bat1 gaa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "kdp6819ok",
+          "startTime": 50,
+          "endTime": 55,
+          "chinese": "彼此终必火化",
+          "pinyin": "bei2 ci2 zung1 bit1 fo2 faa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "hentyut87",
+          "startTime": 55,
+          "endTime": 60,
+          "chinese": "一生一世等一天需要代价",
+          "pinyin": "jat1 saang1 jat1 sai3 dang2 jat1 tin1 seoi1 jiu3 daai6 gaa3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "bxhfqmc0r",
+          "startTime": 60,
+          "endTime": 65,
+          "chinese": "谁都只得那双手",
+          "pinyin": "seoi4 dou1 zik1 dak1 naa5 soeng1 sau2",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "wylcmpvzm",
+          "startTime": 65,
+          "endTime": 70,
+          "chinese": "靠拥抱亦难任你拥有",
+          "pinyin": "kaau3 jung1 pou5 jik6 naan4 jam6 nei5 jung2 jau5",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "jl85w48fh",
+          "startTime": 70,
+          "endTime": 75,
+          "chinese": "要拥有必先懂失去怎接受",
+          "pinyin": "jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "p5wjju7mw",
+          "startTime": 75,
+          "endTime": 80,
+          "chinese": "曾沿着雪路浪游",
+          "pinyin": "cang4 jyun4 zoek6 syut3 lou6 long6 jau4",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "dsf03j4ch",
+          "startTime": 80,
+          "endTime": 85,
+          "chinese": "为何为好事泪流",
+          "pinyin": "wai6 ho4 wai6 hou2 si6 leoi6 lau4",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "5d57puq9w",
+          "startTime": 85,
+          "endTime": 90,
+          "chinese": "谁能凭爱意要富士山私有",
+          "pinyin": "seoi4 nang4 pang4 oi3 ji3 jiu3 fu3 si6 saan1 si1 jau5",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "cw13iega7",
+          "startTime": 90,
+          "endTime": 95,
+          "chinese": "何不把悲哀感觉",
+          "pinyin": "ho4 bat1 baa2 bei1 oi1 gam2 gok3",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "pwq6qy7hs",
+          "startTime": 95,
+          "endTime": 100,
+          "chinese": "假设是来自你虚构",
+          "pinyin": "gaa2 cyut3 si6 loi4 zi6 nei5 heoi3 kau1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "2bsj9sj8m",
+          "startTime": 100,
+          "endTime": 105,
+          "chinese": "试管里找不到它染污眼眸",
+          "pinyin": "si5 gun2 leoi5 zaau2 bat1 dou2 taa1 jim5 wu1 ngaan5 mau4",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "a74jm3s2k",
+          "startTime": 105,
+          "endTime": 110,
+          "chinese": "前尘硬化像石头",
+          "pinyin": "cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "og6ikslef",
+          "startTime": 110,
+          "endTime": 115,
+          "chinese": "随缘地抛下便逃走",
+          "pinyin": "ceoi4 jyun4 dei6 paau1 haa6 bin6 tou4 zau2",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "an5lt0xsn",
+          "startTime": 115,
+          "endTime": 120,
+          "chinese": "我绝不罕有",
+          "pinyin": "ngo5 zyut6 bat1 hon2 jau5",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "icpk22a0f",
+          "startTime": 120,
+          "endTime": 125,
+          "chinese": "往街里绕过一周",
+          "pinyin": "wong5 gaai1 leoi5 jiu2 gwo3 jat1 zau1",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        },
+        {
+          "id": "5qomw57pm",
+          "startTime": 125,
+          "endTime": 130,
+          "chinese": "我便化乌有",
+          "pinyin": "ngo5 bin6 faa3 wu1 jau5",
+          "english": "",
+          "vocabs": [],
+          "isHomework": true
+        }
+      ],
+      "questions": [],
+      "lastModified": 1768748410949
+    }
+  },
+  "students": [
+    {
+      "id": "lyniee_82",
+      "name": "Lyniee",
+      "assignedLessons": [
+        "1768748410949"
+      ]
+    }
+  ]
+}
